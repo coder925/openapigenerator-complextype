@@ -1,0 +1,14 @@
+.gitignore
+README.md
+api.module.ts
+api/api.ts
+api/persons.service.ts
+configuration.ts
+encoder.ts
+git_push.sh
+index.ts
+model/address.ts
+model/models.ts
+model/person.ts
+model/sport.ts
+variables.ts
