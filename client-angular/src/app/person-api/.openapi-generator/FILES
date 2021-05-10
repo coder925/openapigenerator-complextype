@@ -10,5 +10,4 @@ index.ts
 model/address.ts
 model/models.ts
 model/person.ts
-model/sport.ts
 variables.ts

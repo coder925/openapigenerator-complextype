@@ -12,9 +12,7 @@
 
 
 export interface Address { 
-    readonly street1?: string | null;
-    readonly zipCode?: string | null;
-    readonly city?: string | null;
-    readonly country?: string | null;
+    readonly street1?: string;
+    readonly city?: string;
 }
 

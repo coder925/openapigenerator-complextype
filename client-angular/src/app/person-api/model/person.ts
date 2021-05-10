@@ -9,15 +9,12 @@
  * https://openapi-generator.tech
  * Do not edit the class manually.
  */
-import { Sport } from './sport';
 import { Address } from './address';
 
 
 export interface Person { 
-    name: string;
-    address: Address;
-    favoriteQuote?: string | null;
-    interest?: Sport;
-    dateOfBirth?: string;
+    name?: string;
+    title?: string | null;
+    address?: Address;
 }
 
