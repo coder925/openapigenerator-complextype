@@ -31,6 +31,7 @@ namespace server_dotnet
             services.AddSwaggerGen(c =>
             {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "server_dotnet", Version = "v1" });
+                c.SupportNonNullableReferenceTypes();
             });
         }
 
