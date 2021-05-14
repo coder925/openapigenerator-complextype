@@ -1,0 +1,9 @@
+D:\repos\_github\openapigenerator-complextype\server-lib\bin\Debug\netstandard2.1\server-lib.deps.json
+D:\repos\_github\openapigenerator-complextype\server-lib\bin\Debug\netstandard2.1\server-lib.dll
+D:\repos\_github\openapigenerator-complextype\server-lib\bin\Debug\netstandard2.1\server-lib.pdb
+D:\repos\_github\openapigenerator-complextype\server-lib\obj\Debug\netstandard2.1\server-lib.csprojAssemblyReference.cache
+D:\repos\_github\openapigenerator-complextype\server-lib\obj\Debug\netstandard2.1\server-lib.AssemblyInfoInputs.cache
+D:\repos\_github\openapigenerator-complextype\server-lib\obj\Debug\netstandard2.1\server-lib.AssemblyInfo.cs
+D:\repos\_github\openapigenerator-complextype\server-lib\obj\Debug\netstandard2.1\server-lib.csproj.CoreCompileInputs.cache
+D:\repos\_github\openapigenerator-complextype\server-lib\obj\Debug\netstandard2.1\server-lib.dll
+D:\repos\_github\openapigenerator-complextype\server-lib\obj\Debug\netstandard2.1\server-lib.pdb

@@ -13,8 +13,9 @@ import { Address } from './address';
 
 
 export interface Person { 
+    id?: string;
     name?: string;
     title?: string | null;
-    address?: Address;
+    address?: Address | null;
 }
 

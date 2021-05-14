@@ -4,6 +4,8 @@ using Microsoft.AspNetCore.Mvc;
 namespace server_dotnet.Controllers
 {
 	[ApiController]
+    [Consumes("application/json")]
+	[Produces("application/json")]
     [Route("[controller]")]
     public class PersonsController : ControllerBase
     {

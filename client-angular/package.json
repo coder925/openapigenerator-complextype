@@ -8,7 +8,7 @@
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e",
-    "generate:api": "openapi-generator-cli generate -g typescript-angular -i c:\\temp\\swagger.json -o ./src/app/person-api --skip-validate-spec --additional-properties=apiModulePrefix=Person,stringEnums=true"
+    "generate:api": "openapi-generator-cli generate -g typescript-angular -i swagger.json -o ./src/app/person-api --skip-validate-spec --additional-properties=apiModulePrefix=Person,stringEnums=true"
   },
   "private": true,
   "dependencies": {
