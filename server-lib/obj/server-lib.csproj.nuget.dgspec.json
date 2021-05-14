@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\repos\\_github\\openapigenerator-complextype\\server-lib\\server-lib.csproj": {}
+    "D:\\repos\\_github\\openapigenerator-complextype\\server-lib\\server-lib.csproj": {}
   },
   "projects": {
-    "d:\\repos\\_github\\openapigenerator-complextype\\server-lib\\server-lib.csproj": {
+    "D:\\repos\\_github\\openapigenerator-complextype\\server-lib\\server-lib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\repos\\_github\\openapigenerator-complextype\\server-lib\\server-lib.csproj",
+        "projectUniqueName": "D:\\repos\\_github\\openapigenerator-complextype\\server-lib\\server-lib.csproj",
         "projectName": "server-lib",
-        "projectPath": "d:\\repos\\_github\\openapigenerator-complextype\\server-lib\\server-lib.csproj",
+        "projectPath": "D:\\repos\\_github\\openapigenerator-complextype\\server-lib\\server-lib.csproj",
         "packagesPath": "C:\\Users\\MichaelBergman\\.nuget\\packages\\",
-        "outputPath": "d:\\repos\\_github\\openapigenerator-complextype\\server-lib\\obj\\",
+        "outputPath": "D:\\repos\\_github\\openapigenerator-complextype\\server-lib\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\MichaelBergman\\AppData\\Roaming\\NuGet\\NuGet.Config",

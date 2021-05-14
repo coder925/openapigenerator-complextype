@@ -1,4 +1,5 @@
 ﻿using System.Collections.Generic;
+using System.Diagnostics.CodeAnalysis;
 using Microsoft.AspNetCore.Mvc;
 
 namespace server_dotnet.Controllers
@@ -20,5 +21,12 @@ namespace server_dotnet.Controllers
                 }
             };
         }
+
+        [HttpPost]
+        public ActionResult Post([FromBody]Person person)
+        {
+	        return this.Ok();
+        }
+
     }
 }
