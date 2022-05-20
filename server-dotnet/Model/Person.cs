@@ -1,8 +1,6 @@
-using server_lib;
-
 namespace server_dotnet
 {
-    public class Person : AuditableEntity
+    public class Person
     {
         public string Name { get; set; } = string.Empty;
 
