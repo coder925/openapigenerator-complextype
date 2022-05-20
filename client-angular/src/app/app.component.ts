@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import { Person, PersonsService } from './person-api';
 
 @Component({
   selector: 'app-root',
@@ -6,5 +7,21 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent {
-  title = 'MyClient';
+
+  constructor(private personsService: PersonsService)
+  {
+  }
+
+  ngOnInit()
+  {
+    let persons: Person[] = [];
+    this.personsService.personsGet().subscribe(p => 
+      {
+        persons = p
+        console.log('got person: ', p);
+      }
+      );
+    this.personsService.personsPost(persons[0]);
+  }
+
 }
